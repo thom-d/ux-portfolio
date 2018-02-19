@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>return-icon-reverse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="100" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="return-icon-reverse">
+            <use id="Rectangle-2" stroke="#D91E18" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            <g id="arrow-forward" transform="translate(50.000000, 50.000000) rotate(-90.000000) translate(-50.000000, -50.000000) translate(25.000000, 30.000000)" fill="#D91E18">
+                <path d="M31.4143296,1.41432961 C30.6332169,0.633216935 29.3661764,0.633823596 28.5865046,1.41349535 L27.9134954,2.08650465 C27.1328434,2.86715657 27.1379302,4.13793015 27.919439,4.91943899 L40.5,17.5 L2.0084013,17.5 C0.899191889,17.5 -1.70600042e-16,18.3938998 -1.70600042e-16,19.5048815 L-1.70600042e-16,20.4951185 C-1.70600042e-16,21.602384 0.902684075,22.5 2.0084013,22.5 L40.5,22.5 L27.919439,35.080561 C27.1355045,35.8644955 27.1338236,37.1338236 27.9134954,37.9134954 L28.5865046,38.5865046 C29.3671566,39.3671566 30.6315927,39.3684073 31.4143296,38.5856704 L48.5856704,21.4143296 C49.3667831,20.6332169 49.3684073,19.3684073 48.5856704,18.5856704 L31.4143296,1.41432961 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
