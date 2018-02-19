@@ -183,7 +183,7 @@ header {
       background-position: 50%;
     }
     .ebay {
-      background: url("../images/ebayux-web.png");
+      background: url("../images/spc-web.png");
       background-position: 50%;
     }
     .wash {
@@ -371,7 +371,28 @@ header {
   justify-content: center;
 }
 
+
+// Project Page --------------------------
+
+ 
+
 }
+
+.project-intro {
+  text-align: left;
+  background: #202932;
+  max-width: 100%; height: auto;
+  padding: 3rem 2rem 3rem 2rem; 
+  margin: 0 auto;
+} 
+
+.project-description {
+  text-align: left;
+  background: #212121;
+  max-width: 100%; height: auto;
+  padding: 1rem 2rem 3rem 2rem; 
+  margin: 0 auto;
+} 
 
 
 
