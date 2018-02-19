@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <title><%= current_page.data.title || "Dana Thomas | UX/UI Designer" %></title>
+    <%= stylesheet_link_tag "normalize" %>
+    <%= stylesheet_link_tag "site" %>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet">
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <script src='http://code.jquery.com/jquery-1.11.0.min.js'></script>
+    <%= javascript_include_tag "main" %>
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+</html>
