@@ -12,10 +12,10 @@ $(".landing-intro, .button").hide().fadeIn("slow");
 // "Featured Work" and "About" links 
 // On click scrolls down to portfolio gallery and about section
 
-$(".my-gallery").click(function(e){
-  e.preventDefault();
-  $('body, html').animate({scrollTop: $("#gallery").offset().top}, 1500);    
-});
+// $(".my-gallery").click(function(e){
+//   e.preventDefault();
+//   $('body, html').animate({scrollTop: $("#gallery").offset().top}, 1500);    
+// });
 
 $(".my-blurb").click(function(e){
   e.preventDefault();

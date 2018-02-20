@@ -190,8 +190,16 @@ nav {
       background: url("../images/pnc-web.png");
       background-position: 50%;
     }
+    .gn {
+      background: url("../images/cover-art-gn.png");
+      background-position: 50%;
+    }
     .ebay {
       background: url("../images/spc-web.png");
+      background-position: 50%;
+    }
+    .gfsdm {
+      background: url("../images/cover-art-email.png");
       background-position: 50%;
     }
     .wash {
@@ -406,6 +414,11 @@ header {
 .work-content {
   color: #363636;
 }
+
+#gn-sample {
+  width: 100%; height: auto;
+}
+
 
 
 
