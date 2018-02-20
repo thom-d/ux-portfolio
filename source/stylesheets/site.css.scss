@@ -75,6 +75,13 @@ p {
 
 header {
   color: #4ECDC4;
+  background: #202932;
+  width: 100%; height: 2em;
+  padding-top: 1em;
+}
+
+nav {
+  color: #4ECDC4;
   text-align: right;
   padding: 1em 0;
   margin: 0 2.5em;
@@ -118,6 +125,7 @@ header {
 
 
 .project {
+  background: #fff;
   max-width: 900px;
   margin: 8em auto 6em auto;
 }
@@ -388,11 +396,17 @@ header {
 
 .project-description {
   text-align: left;
-  background: #212121;
+  color: #363636;
+  background: #f1f1f1;
   max-width: 100%; height: auto;
   padding: 1rem 2rem 3rem 2rem; 
   margin: 0 auto;
 } 
+
+.work-content {
+  color: #363636;
+}
+
 
 
 

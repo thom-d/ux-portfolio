@@ -14,7 +14,7 @@ $(".landing-intro, .button").hide().fadeIn("slow");
 
 $(".my-gallery").click(function(e){
   e.preventDefault();
-  $('body, html').animate({scrollTop: $(".project").offset().top}, 1500);    
+  $('body, html').animate({scrollTop: $("#gallery").offset().top}, 1500);    
 });
 
 $(".my-blurb").click(function(e){
@@ -27,7 +27,7 @@ $(".my-blurb").click(function(e){
 
 $(".button").click(function(e){
   e.preventDefault();
-  $('body, html').animate({scrollTop: $(".project").offset().top}, 1500);    
+  $('body, html').animate({scrollTop: $("#gallery").offset().top}, 1500);    
 });
 
 
@@ -49,7 +49,7 @@ $(".button").click(function(e){
 
 $(".return").click(function(e){
   e.preventDefault();
-  $('body, html').animate({scrollTop: $(".landing").offset().top}, 1500);    
+  $('body, html').animate({scrollTop: $("#nav").offset().top}, 1500);    
 });  
 
 });
