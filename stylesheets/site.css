@@ -52,6 +52,9 @@ p {
     transition: color 2.5s ease-in-out;
     cursor: pointer; }
 
+.sample-padding {
+  padding-bottom: 4em; }
+
 header {
   color: #4ECDC4;
   background: #202932;
@@ -61,6 +64,7 @@ header {
 
 nav {
   color: #4ECDC4;
+  background: #202932;
   text-align: right;
   padding: 1em 0;
   margin: 0 2.5em; }
@@ -153,24 +157,28 @@ nav {
   background-position: 50%; }
 
 .gn {
-  background: url("../images/cover-art-gn.png");
+  background: url("../images/gordon-now-panel.png");
   background-position: 50%; }
 
-.ebay {
-  background: url("../images/spc-web.png");
+.spcentral {
+  background: url("../images/supplier-central-panel.png");
   background-position: 50%; }
 
 .gfsdm {
-  background: url("../images/cover-art-email.png");
+  background: url("../images/dm-email-panel.png");
   background-position: 50%; }
 
-.wash {
-  background: url("../images/wash-web.png");
-  background-position: 50%; }
+.ssapp {
+  background: url("../images/streetsmart-panel.png");
+  background-position: 40%; }
 
 .logotypes {
-  background: url("../images/sketch.svg");
-  background-color: #1BA39C;
+  background: url("../images/style-guide-panel.png");
+  background-repeat: no-repeat;
+  background-position: 50%; }
+
+.menu-update {
+  background: url("../images/gfs.com-menu.png");
   background-repeat: no-repeat;
   background-position: 50%; }
 
