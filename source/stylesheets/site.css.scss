@@ -53,6 +53,7 @@ h3 {
 
 p {
   font-size: 1em;
+  font-weight: 300;
   letter-spacing: 0.9px;
 }
 
@@ -136,16 +137,16 @@ nav {
 }
 
 .project-title {
-  color: #363636;
+  color: #151515;
   text-align: center;
 }
 
 .project-caption {
-  color: #363636;
+  color: #151515;
   text-align: center;
 }
   .social2 {
-    color: #363636;
+    color: #151515;
     margin: 0;
     border-bottom: 2px solid $accent-red;
   }
@@ -196,7 +197,7 @@ nav {
       background-position: 50%;
     }
     .gn {
-      background: url("../images/gordon-now-panel.png");
+      background: url("../images/homepage-panel.png");
       background-position: 50%;
     }
     .spcentral {
@@ -414,7 +415,7 @@ header {
 
 .project-description {
   text-align: left;
-  color: #363636;
+  color: #151515;
   background: #f1f1f1;
   max-width: 100%; height: auto;
   padding: 1rem 2rem 3rem 2rem; 
@@ -422,7 +423,7 @@ header {
 } 
 
 .work-content {
-  color: #363636;
+  color: #151515;
 }
 
 #gn-sample {
