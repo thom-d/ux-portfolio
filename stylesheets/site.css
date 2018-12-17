@@ -38,6 +38,7 @@ h3 {
 
 p {
   font-size: 1em;
+  font-weight: 300;
   letter-spacing: 0.9px; }
 
 .button {
@@ -102,15 +103,15 @@ nav {
   margin: 8em auto 6em auto; }
 
 .project-title {
-  color: #363636;
+  color: #151515;
   text-align: center; }
 
 .project-caption {
-  color: #363636;
+  color: #151515;
   text-align: center; }
 
 .social2 {
-  color: #363636;
+  color: #151515;
   margin: 0;
   border-bottom: 2px solid #D91E18; }
 
@@ -157,15 +158,15 @@ nav {
   background-position: 50%; }
 
 .gn {
-  background: url("../images/gordon-now-panel.png");
+  background: url("../images/homepage-panel.png");
   background-position: 50%; }
 
 .spcentral {
-  background: url("../images/supplier-central-panel.png");
+  background: url("../images/mc-panel.png");
   background-position: 50%; }
 
 .gfsdm {
-  background: url("../images/dm-email-panel.png");
+  background: url("../images/acm-panel.png");
   background-position: 50%; }
 
 .ssapp {
@@ -330,7 +331,7 @@ footer {
 
 .project-description {
   text-align: left;
-  color: #363636;
+  color: #151515;
   background: #f1f1f1;
   max-width: 100%;
   height: auto;
@@ -338,7 +339,7 @@ footer {
   margin: 0 auto; }
 
 .work-content {
-  color: #363636; }
+  color: #151515; }
 
 #gn-sample {
   width: 100%;
