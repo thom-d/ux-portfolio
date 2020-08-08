@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.0.6)
+    activesupport (5.2.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
@@ -32,7 +32,7 @@ GEM
       concurrent-ruby (~> 1.0)
     hashie (3.5.7)
     i18n (0.7.0)
-    kramdown (1.16.2)
+    kramdown (2.3.0)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
