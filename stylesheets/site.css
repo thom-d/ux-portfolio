@@ -116,14 +116,9 @@ nav {
   border-bottom: 2px solid #D91E18; }
 
 .cards {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center; }
+  flex-wrap: wrap;
+  justify-content: center; }
 
 .card {
   width: 400px;
@@ -248,53 +243,39 @@ footer {
   margin: auto; }
 
 .footer-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end; }
+  align-items: center;
+  justify-content: flex-end; }
 
 @media (max-width: 640px) {
   .link {
     font-size: 0.9em;
     margin: 0 8px; }
-
   header {
     text-align: center; }
-
   .landing {
     background: #202932;
     width: 100%;
     height: 46em;
     padding: 15px 0;
     margin-bottom: 4em; }
-
   .landing-container {
     padding: 1em 1rem 7em 1rem;
     margin: auto; }
-
   .landing-intro {
     color: #fff;
     font-weight: 100;
     line-height: 4em;
     letter-spacing: 0.9px;
     margin-bottom: 6em; }
-
   .landing-caption {
     line-height: 1.5em !important; }
-
   .aqua {
     color: #1BA39C; }
-
   .project {
     max-width: 900px;
     padding: 0 24px;
     margin: 3em auto; }
-
   .about {
     text-align: left;
     background: #202932;
@@ -302,25 +283,17 @@ footer {
     height: auto;
     padding: 1rem 2rem 3rem 2rem;
     margin: 0 auto; }
-
   .email {
     font-size: 1.1em;
     border-bottom: none;
     padding-bottom: 0; }
-
   .social {
     margin: 0; }
-
   .footer-container {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; } }
+    align-items: center;
+    justify-content: center; } }
+
 .project-intro {
   text-align: left;
   background: #202932;
